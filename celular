@@ -1,88 +1,38 @@
 [
     {
-        "Usuário": "6567913197",
-        "Notas": "David(Instagram)",
-        "Celular": "5563991063804"
-    },
-    {
-        "Usuário": "6594619431",
-        "Notas": "Wanderson(Instagram)",
-        "Celular": "5511987578927"
-    },
-    {
-        "Usuário": "559467816",
-        "Notas": "Robério",
-        "Celular": "5571988896888"
-    },
-    {
-        "Usuário": "78139461646",
-        "Notas": "Rafael(Instagram)",
-        "Celular": "5585998325144"
-    },
-    {
-        "Usuário": "95201791",
-        "Notas": "Wellington(Boca do Rio)",
-        "Celular": "557599595098"
-    },
-    {
-        "Usuário": "46465649",
-        "Notas": "André (Juliana)",
-        "Celular": "557197171025"
-    },
-    {
-        "Usuário": "697618178",
-        "Notas": "Alex(Instagram)",
-        "Celular": "557193294680"
-    },
-    {
-        "Usuário": "9761964546",
-        "Notas": "Samuel(Andre)",
-        "Celular": "5571982435262"
-    },
-    {
-        "Usuário": "5561973995",
-        "Notas": "Charles Deposito 2",
-        "Celular": "5571992552255"
-    },
-    {
-        "Usuário": "56499739",
-        "Notas": "Cleiton(Cunhado)",
-        "Celular": "5571999851883"
-    },
-    {
-        "Usuário": "5541668523165",
-        "Notas": "Ademir/ Lucia",
-        "Celular": "5571993027615"
-    },
-    {
         "Usuário": "8540153793",
-        "Notas": "Rita (PauloG)",
-        "Celular": "5571987950384"
+        "Notas": "Rita (Enzo)",
+        "Celular": "557187950384"
     },
     {
-        "Usuário": "873913461",
-        "Notas": "Raniel(Rafael Hinode)",
+        "Usuário": "8932521145252",
+        "Notas": "Rafael(Vinicius)",
+        "Celular": "5511996388793"
+    },
+    {
+        "Usuário": "883913451",
+        "Notas": "Raniel(Instagram)",
         "Celular": "5524992172912"
     },
     {
-        "Usuário": "84348164649484",
+        "Usuário": "843481617",
         "Notas": "Aline (Allan)",
-        "Celular": "5548999034333"
+        "Celular": "554899034333"
     },
     {
-        "Usuário": "846516464",
-        "Notas": "Matheus(Futvarzea)",
-        "Celular": "558592151300"
+        "Usuário": "8169164619",
+        "Notas": "Edson(SP)",
+        "Celular": "5511962580285"
+    },
+    {
+        "Usuário": "97379649491",
+        "Notas": "Guilherme(Gabriel)",
+        "Celular": "554899976115"
     },
     {
         "Usuário": "926791646",
         "Notas": "Sandra/ Andre",
-        "Celular": "5571987613843"
-    },
-    {
-        "Usuário": "87949461964615",
-        "Notas": "Kauana(Instagram)",
-        "Celular": "559491374930"
+        "Celular": "557186746123"
     },
     {
         "Usuário": "51864649436194",
@@ -92,17 +42,27 @@
     {
         "Usuário": "126696293",
         "Notas": "Leandro(Bruno)",
-        "Celular": "5571984005458"
+        "Celular": "557184005458"
     },
     {
         "Usuário": "8739184341",
         "Notas": "Netinho(Elaine)",
-        "Celular": "5571993960546"
+        "Celular": "557193960546"
     },
     {
-        "Usuário": "81649319461",
-        "Notas": "Vinicius Academia",
-        "Celular": "5571984597288"
+        "Usuário": "858242663393",
+        "Notas": "Eleni(Duda)",
+        "Celular": "557399907082"
+    },
+    {
+        "Usuário": "5484546134",
+        "Notas": "Luciano(CDN)",
+        "Celular": "557193514497"
+    },
+    {
+        "Usuário": "561680657",
+        "Notas": "Antonio(Adilson)",
+        "Celular": "5511977351725"
     },
     {
         "Usuário": "56989483",
@@ -110,83 +70,143 @@
         "Celular": "5571982022447"
     },
     {
-        "Usuário": "5649734912",
-        "Notas": "Lorena(Lais)",
-        "Celular": "5571986218827"
-    },
-    {
-        "Usuário": "5506806580",
-        "Notas": "Antonio(Adilson)",
-        "Celular": "5511977351725"
-    },
-    {
         "Usuário": "569761643",
         "Notas": "Bia / Rian",
-        "Celular": "5571983792990"
+        "Celular": "557182190145"
+    },
+    {
+        "Usuário": "57886801580",
+        "Notas": "Anderson(Instagram)",
+        "Celular": "5511912504435"
+    },
+    {
+        "Usuário": "56646676586",
+        "Notas": "Felipe",
+        "Celular": "71982690482"
+    },
+    {
+        "Usuário": "873813491",
+        "Notas": "Amanda(Instagram)",
+        "Celular": "553299040765"
+    },
+    {
+        "Usuário": "452218582",
+        "Notas": "Duda(Ariane)",
+        "Celular": "557398568096"
+    },
+    {
+        "Usuário": "838151873820",
+        "Notas": "Ariane",
+        "Celular": "557398645835"
+    },
+    {
+        "Usuário": "65967649164",
+        "Notas": "Diego(Vinicius)",
+        "Celular": "557191152590"
+    },
+    {
+        "Usuário": "95425821452",
+        "Notas": "Wagner(Instagram) Roku",
+        "Celular": "558788688555"
+    },
+    {
+        "Usuário": "565656657",
+        "Notas": "Luciano (Manoel Vitorino)",
+        "Celular": "7196008238"
+    },
+    {
+        "Usuário": "6580350842",
+        "Notas": "Cleiton(Pai)",
+        "Celular": "557196875998"
+    },
+    {
+        "Usuário": "9790654650",
+        "Notas": "Gabriela",
+        "Celular": "557183935949"
+    },
+    {
+        "Usuário": "656468052",
+        "Notas": "Eline",
+        "Celular": "557186027943"
+    },
+    {
+        "Usuário": "6567913197",
+        "Notas": "David(Instagram)",
+        "Celular": "556391063804"
+    },
+    {
+        "Usuário": "6594619431",
+        "Notas": "Wanderson(Instagram)",
+        "Celular": "5511987578927"
+    },
+    {
+        "Usuário": "559467816",
+        "Notas": "Robério",
+        "Celular": "71988896888"
+    },
+    {
+        "Usuário": "78139461646",
+        "Notas": "Rafael(Instagram)",
+        "Celular": "5511996388793"
+    },
+    {
+        "Usuário": "95201791",
+        "Notas": "Wellington(Boca do Rio)",
+        "Celular": "557599595098"
+    },
+    {
+        "Usuário": "46465649",
+        "Notas": "André (Juliana)",
+        "Celular": "7197171025"
+    },
+    {
+        "Usuário": "697618178",
+        "Notas": "Alex(Instagram)",
+        "Celular": "557193294680"
+    },
+    {
+        "Usuário": "9761964546",
+        "Notas": "Samuel(Andre Roupas)",
+        "Celular": "557182435262"
+    },
+    {
+        "Usuário": "5561973995",
+        "Notas": "Charles Deposito 2",
+        "Celular": "557192552255"
+    },
+    {
+        "Usuário": "56499739",
+        "Notas": "Cleiton(Cunhado)",
+        "Celular": "557199851883"
+    },
+    {
+        "Usuário": "5541668523165",
+        "Notas": "Ademir/ Lucia",
+        "Celular": "557193027615"
+    },
+    {
+        "Usuário": "846516464",
+        "Notas": "Matheus(Futvarzea)",
+        "Celular": "558592151300"
+    },
+    {
+        "Usuário": "87949461964615",
+        "Notas": "Kauana(Instagram)",
+        "Celular": "559491374930"
+    },
+    {
+        "Usuário": "81649319461",
+        "Notas": "Vinicius Academia",
+        "Celular": "71984597288"
+    },
+    {
+        "Usuário": "5649734912",
+        "Notas": "Lorena(Lais)",
+        "Celular": "557186218827"
     },
     {
         "Usuário": "56498169",
         "Notas": "Mãe Noelia",
         "Celular": ""
-    },
-    {
-        "Usuário": "59886805205",
-        "Notas": "Anderson(Instagram)",
-        "Celular": "5511977364967"
-    },
-    {
-        "Usuário": "566466766",
-        "Notas": "Felipe (Lucas)",
-        "Celular": "5571988225510"
-    },
-    {
-        "Usuário": "8315187341",
-        "Notas": "Amanda (Ariane)",
-        "Celular": "5532999040765"
-    },
-    {
-        "Usuário": "65967649164",
-        "Notas": "Diego(Vinicius)",
-        "Celular": "5571991152590"
-    },
-    {
-        "Usuário": "51649319464",
-        "Notas": "Gabriela (Mateus)in",
-        "Celular": "5571983935949"
-    },
-    {
-        "Usuário": "516497318",
-        "Notas": "Leo Nord3st1",
-        "Celular": "5571987799740"
-    },
-    {
-        "Usuário": "56565665",
-        "Notas": "Luciano (Manoel Vitorino)",
-        "Celular": "557196008238"
-    },
-    {
-        "Usuário": "65646487",
-        "Notas": "Eline(Gustavo)IN.",
-        "Celular": "5571986027943"
-    },
-    {
-        "Usuário": "81679164",
-        "Notas": "Paloma",
-        "Celular": "5511993086275"
-    },
-    {
-        "Usuário": "56896491",
-        "Notas": "Jean Gilzan 2",
-        "Celular": "5571991345612"
-    },
-    {
-        "Usuário": "565943196",
-        "Notas": "Brendo (Andressa)",
-        "Celular": "5571991021275"
-    },
-    {
-        "Usuário": "5454861965",
-        "Notas": "Priscila (Lais)",
-        "Celular": "5571985360710"
     }
 ]
