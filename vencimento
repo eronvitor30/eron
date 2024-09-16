@@ -1,5 +1,135 @@
 [
     {
+        "Usuário": "8540153793",
+        "Vencimento": "16/10/2024 20:08:32",
+        "Notas": "Rita (Enzo)"
+    },
+    {
+        "Usuário": "8932521145252",
+        "Vencimento": "16/10/2024 00:44:56",
+        "Notas": "Rafael(Vinicius)"
+    },
+    {
+        "Usuário": "883913451",
+        "Vencimento": "15/10/2024 15:34:31",
+        "Notas": "Raniel(Instagram)"
+    },
+    {
+        "Usuário": "843481617",
+        "Vencimento": "14/10/2024 22:59:59",
+        "Notas": "Aline (Allan)"
+    },
+    {
+        "Usuário": "8169164619",
+        "Vencimento": "14/10/2024 17:56:33",
+        "Notas": "Edson(SP)"
+    },
+    {
+        "Usuário": "97379649491",
+        "Vencimento": "13/10/2024 20:23:16",
+        "Notas": "Guilherme(Gabriel)"
+    },
+    {
+        "Usuário": "926791646",
+        "Vencimento": "12/10/2024 21:06:01",
+        "Notas": "Sandra/ Andre"
+    },
+    {
+        "Usuário": "51864649436194",
+        "Vencimento": "10/10/2024 12:22:01",
+        "Notas": "Riane(Bruno)"
+    },
+    {
+        "Usuário": "126696293",
+        "Vencimento": "10/10/2024 12:20:06",
+        "Notas": "Leandro(Bruno)"
+    },
+    {
+        "Usuário": "8739184341",
+        "Vencimento": "09/10/2024 22:58:25",
+        "Notas": "Netinho(Elaine)"
+    },
+    {
+        "Usuário": "858242663393",
+        "Vencimento": "08/10/2024 23:53:00",
+        "Notas": "Eleni(Duda)"
+    },
+    {
+        "Usuário": "5484546134",
+        "Vencimento": "08/10/2024 11:22:30",
+        "Notas": "Luciano(CDN)"
+    },
+    {
+        "Usuário": "561680657",
+        "Vencimento": "07/10/2024 20:31:28",
+        "Notas": "Antonio(Adilson)"
+    },
+    {
+        "Usuário": "56989483",
+        "Vencimento": "07/10/2024 19:45:46",
+        "Notas": "Caroline(Tairone)"
+    },
+    {
+        "Usuário": "569761643",
+        "Vencimento": "05/10/2024 18:06:46",
+        "Notas": "Bia / Rian"
+    },
+    {
+        "Usuário": "57886801580",
+        "Vencimento": "03/10/2024 21:53:52",
+        "Notas": "Anderson(Instagram)"
+    },
+    {
+        "Usuário": "56646676586",
+        "Vencimento": "03/10/2024 21:29:39",
+        "Notas": "Felipe"
+    },
+    {
+        "Usuário": "873813491",
+        "Vencimento": "02/10/2024 05:04:40",
+        "Notas": "Amanda(Instagram)"
+    },
+    {
+        "Usuário": "452218582",
+        "Vencimento": "30/09/2024 21:20:02",
+        "Notas": "Duda(Ariane)"
+    },
+    {
+        "Usuário": "838151873820",
+        "Vencimento": "30/09/2024 14:25:44",
+        "Notas": "Ariane"
+    },
+    {
+        "Usuário": "65967649164",
+        "Vencimento": "28/09/2024 19:45:19",
+        "Notas": "Diego(Vinicius)"
+    },
+    {
+        "Usuário": "95425821452",
+        "Vencimento": "27/09/2024 17:18:07",
+        "Notas": "Wagner( Instagram ) Roku"
+    },
+    {
+        "Usuário": "565656657",
+        "Vencimento": "27/09/2024 00:45:21",
+        "Notas": "Luciano (Manoel Vitorino)"
+    },
+    {
+        "Usuário": "6580350842",
+        "Vencimento": "25/09/2024 03:09:52",
+        "Notas": "Cleiton( Pai )"
+    },
+    {
+        "Usuário": "9790654650",
+        "Vencimento": "25/09/2024 02:36:29",
+        "Notas": "Gabriela"
+    },
+    {
+        "Usuário": "656468052",
+        "Vencimento": "23/09/2024 13:17:19",
+        "Notas": "Eline"
+    },
+    {
         "Usuário": "6567913197",
         "Vencimento": "21/09/2024 18:14:04",
         "Notas": "David(Instagram)"
@@ -37,7 +167,7 @@
     {
         "Usuário": "9761964546",
         "Vencimento": "17/09/2024 17:53:28",
-        "Notas": "Samuel(Andre)"
+        "Notas": "Samuel(Andre Roupas)"
     },
     {
         "Usuário": "5561973995",
@@ -55,29 +185,9 @@
         "Notas": "Ademir/ Lucia"
     },
     {
-        "Usuário": "8540153793",
-        "Vencimento": "15/09/2024 20:08:32",
-        "Notas": "Rita (PauloG)"
-    },
-    {
-        "Usuário": "873913461",
-        "Vencimento": "12/09/2024 10:15:54",
-        "Notas": "Raniel(Rafael Hinode)"
-    },
-    {
-        "Usuário": "84348164649484",
-        "Vencimento": "11/09/2024 22:59:59",
-        "Notas": "Aline (Allan)"
-    },
-    {
         "Usuário": "846516464",
         "Vencimento": "11/09/2024 17:29:22",
         "Notas": "Matheus(Futvarzea)"
-    },
-    {
-        "Usuário": "926791646",
-        "Vencimento": "10/09/2024 20:52:13",
-        "Notas": "Sandra/ Andre"
     },
     {
         "Usuário": "87949461964615",
@@ -85,29 +195,9 @@
         "Notas": "Kauana(Instagram)"
     },
     {
-        "Usuário": "51864649436194",
-        "Vencimento": "09/09/2024 10:31:01",
-        "Notas": "Riane(Bruno)"
-    },
-    {
-        "Usuário": "126696293",
-        "Vencimento": "08/09/2024 21:42:09",
-        "Notas": "Leandro(Bruno)"
-    },
-    {
-        "Usuário": "8739184341",
-        "Vencimento": "08/09/2024 13:02:25",
-        "Notas": "Netinho(Elaine)"
-    },
-    {
         "Usuário": "81649319461",
         "Vencimento": "07/09/2024 17:57:40",
         "Notas": "Vinicius Academia"
-    },
-    {
-        "Usuário": "56989483",
-        "Vencimento": "06/09/2024 19:45:46",
-        "Notas": "Caroline(Tairone)"
     },
     {
         "Usuário": "5649734912",
@@ -115,78 +205,8 @@
         "Notas": "Lorena(Lais)"
     },
     {
-        "Usuário": "5506806580",
-        "Vencimento": "05/09/2024 21:19:49",
-        "Notas": "Antonio(Adilson)"
-    },
-    {
-        "Usuário": "569761643",
-        "Vencimento": "04/09/2024 18:06:46",
-        "Notas": "Bia / Rian"
-    },
-    {
         "Usuário": "56498169",
         "Vencimento": "31/08/2024 22:11:52",
         "Notas": "Mãe Noelia"
-    },
-    {
-        "Usuário": "59886805205",
-        "Vencimento": "31/08/2024 01:31:57",
-        "Notas": "Anderson(Instagram)"
-    },
-    {
-        "Usuário": "566466766",
-        "Vencimento": "30/08/2024 12:30:19",
-        "Notas": "Felipe (Lucas)"
-    },
-    {
-        "Usuário": "8315187341",
-        "Vencimento": "30/08/2024 03:21:46",
-        "Notas": "Amanda (Ariane)"
-    },
-    {
-        "Usuário": "65967649164",
-        "Vencimento": "28/08/2024 16:04:27",
-        "Notas": "Diego(Vinicius)"
-    },
-    {
-        "Usuário": "51649319464",
-        "Vencimento": "25/08/2024 16:43:12",
-        "Notas": "Gabriela (Mateus)in"
-    },
-    {
-        "Usuário": "516497318",
-        "Vencimento": "24/08/2024 17:18:37",
-        "Notas": "Leo Nord3st1"
-    },
-    {
-        "Usuário": "56565665",
-        "Vencimento": "23/08/2024 11:28:36",
-        "Notas": "Luciano (Manoel Vitorino)"
-    },
-    {
-        "Usuário": "65646487",
-        "Vencimento": "23/08/2024 09:29:09",
-        "Notas": "Eline(Gustavo)IN."
-    },
-    {
-        "Usuário": "81679164",
-        "Vencimento": "20/08/2024 21:48:36",
-        "Notas": "Paloma"
-    },
-    {
-        "Usuário": "56896491",
-        "Vencimento": "16/08/2024 16:14:08",
-        "Notas": "Jean Gilzan 2"
-    },
-    {
-        "Usuário": "565943196",
-        "Vencimento": "07/08/2024 12:41:02",
-        "Notas": "Brendo (Andressa)"
-    },
-    {
-        "Usuário": "5454861965",
-        "Vencimento": "03/08/2024 11:10:48",
-        "Notas": "Priscila (Lais)"
     }
 ]
